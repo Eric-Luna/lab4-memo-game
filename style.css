@@ -1,0 +1,14 @@
+.img{
+    text-align: left;
+    width: 100px;
+    height:100px;
+    margin: 30px;
+    max-width: 100px;
+    max-height: 100px;
+    overflow: auto;
+    background-color: white;
+}
+
+.clickeada{
+    pointer-events: none;
+}
